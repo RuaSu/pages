@@ -37,3 +37,9 @@
 ### レベル2
 
 ぴよ
+
+ほげ[ふが](https://github.com/)ぴよ
+
+[ほげ](./fuga/hoge.md)
+
+![ほげ](./hoge.png)
